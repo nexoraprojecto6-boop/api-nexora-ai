@@ -1358,7 +1358,7 @@ app.get('/', (_req, res) => {
 <html lang="pt">
 <head>
   <meta charset="utf-8">
-  <meta name="deriv-site-verification" content="852454070144d56e94ca6bbcdef0c7c58171e58d573588c914052ede2147ffed">
+  <meta name="deriv-site-verification" content="26c4a9a57a8470310339f27c349b7bffa0357e2fa8c5fc42c327557524291c19">
   <title>Nexora API</title>
 </head>
 <body>
